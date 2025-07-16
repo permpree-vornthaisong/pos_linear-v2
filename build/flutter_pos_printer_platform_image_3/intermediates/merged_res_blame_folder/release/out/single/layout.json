@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    }
+]

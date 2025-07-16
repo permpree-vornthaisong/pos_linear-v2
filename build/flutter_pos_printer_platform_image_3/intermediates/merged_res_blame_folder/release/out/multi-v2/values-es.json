@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-10:/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JOJODOll\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_pos_printer_platform_image_3-1.2.0\\android\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "9,7,2,5,3,4,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "714,515,55,329,141,221,589,421",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "776,584,136,416,216,324,709,510"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,196,282,374,454,562,788",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "117,191,277,369,449,557,682,877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JOJODOll\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endColumns": "100",
+                        "endOffsets": "783"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-mergeReleaseResources-8:/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JOJODOll\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_pos_printer_platform_image_3-1.2.0\\android\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "9,7,2,5,3,4,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "714,515,55,329,141,221,589,421",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "776,584,136,416,216,324,709,510"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,196,282,374,454,562,788",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "117,191,277,369,449,557,682,877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\JOJODOll\\.gradle\\caches\\transforms-3\\7e9df2ac2213a6bd3cef0f2f27870d79\\transformed\\core-1.6.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endColumns": "100",
+                        "endOffsets": "783"
+                    }
+                }
+            ]
+        }
+    ]
+}
